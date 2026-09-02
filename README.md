@@ -6,8 +6,6 @@ del sitio actual (WordPress + WooCommerce, theme Flipmart).
 ## Contenido
 
 - `index.html` — propuesta final, autocontenida (imágenes embebidas en base64).
-  Incluye un toggle "Escritorio / Mobile" arriba de todo para previsualizar
-  ambas versiones sin salir del archivo.
 - `template.html` — misma página con placeholders `__IMG_*__` en lugar de las
   imágenes embebidas, para poder regenerar `index.html` con otras fotos.
 - `assets/` — fotos de producto originales usadas en el mockup (bajadas del
